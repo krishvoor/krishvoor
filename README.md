@@ -8,7 +8,7 @@
 **krishvoor/krishvoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![](https://github-profile-trophy.vercel.app/?username=krishvoor&theme=dracula)]
+![](https://github-profile-trophy.vercel.app/?username=krishvoor&theme=dracula)
 
 <a>
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishvoor&theme=dracula" />
