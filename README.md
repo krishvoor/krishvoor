@@ -1,6 +1,6 @@
 ### Hola 👋
 - 🔭 I’m currently working on Optimizing ISV Applications on OpenShift Container Platforms
-- 😄 Pronouns: He / him / his
+- 😄 Pronouns: he/him/his
 
 
 
